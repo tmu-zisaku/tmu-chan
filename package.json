@@ -1,0 +1,23 @@
+{
+  "name": "@tmu-zisaku/tmu-chan",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "format": "prettier --write .",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "prettier": "3.5.3",
+    "turbo": "2.5.0",
+    "typescript": "5.8.3"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "npm@10.9.2",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
