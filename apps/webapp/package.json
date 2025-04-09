@@ -1,5 +1,5 @@
 {
-  "name": "@tmu-zisaku/tmu-chan-webapp",
+  "name": "@tmu-chan/webapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
