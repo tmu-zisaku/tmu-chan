@@ -1,3 +1,6 @@
 {
-  "extends": "@tmu-chan/tsconfig/typescript.json"
+  "extends": "@tmu-chan/tsconfig/typescript.json",
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
 }
