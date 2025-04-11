@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@tmu-chan/tsconfig": "*",
-    "@types/node": "^22.0.0",
+    "@types/node": "^22.14.0",
     "tsx": "^4.4.0",
     "typescript": "~5.8.0"
   },
